@@ -5,4 +5,4 @@ Instacart is a grocery service that allows customers to purchase groceries onlin
 ## Data
 I used open-source data from 2017 made available by Instacart [here](https://www.instacart.com/datasets/grocery-shopping-2017).
 ## Deliverables
-For a detailed summary of my findings as well as a population flow and a description of the various wrangling and constistency checks performed on the data, see the [Final Report]()
+For a detailed summary of my findings as well as a population flow and a description of the various wrangling and constistency checks performed on the data, see the [Final Report](05 Sent to client/Final Report.xlsx)
